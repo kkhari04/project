@@ -1,1 +1,4 @@
 git clone https://github.com/kkhari04/project.github.io
+cd kkhari04.github.io
+
+echo "Hello World" > index.html
